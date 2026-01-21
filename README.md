@@ -3,10 +3,11 @@ For the poor :( (L1 Statement of Truth.)
 
 /* 
  * © 2025 TheWizard — CC BY-SA 4.0 International
- * X/Twitter: @MagusMaxim77019
+ * X/Twitter: @MagusMaxim77019 
  * GitHub: https://github.com/ArcanusMagusMaximus/Cheffs-Kiss-Golden-Al-Dente-Free-Access.txt.-D
  * You may share and adapt this work, provided attribution is given and derivatives
  * are shared under the same license (CC BY-SA 4.0).
+ * ()@proton.me
  */
 
 # Cheffs-Kiss-Golden-Al-Dente-Free-Access
